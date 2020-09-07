@@ -1,1 +1,2 @@
-Author Hang Nguyen
+#sentiment analysis vietnamese
+Author: Hang Nguyen
